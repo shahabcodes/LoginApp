@@ -1,6 +1,6 @@
 # LoginApp
  
-    1. Simple Login Screen         
+    #1. Simple Login Screen         
 
     (a) User will type username and password and click on login button.
     (b) On Click of login, call web service and validate user, also capture logs in case of failure and save it in SQLLite. (Note* : Here most important thing is which library you use and how you centralize service calls approach throughout your application)
@@ -8,7 +8,7 @@
 
  
 
-    2. List View Screen
+    #2. List View Screen
 
     (a) Provided a List of items through API, each item should have two buttons next to it (Yes, No).
     (b) On click of appropriate button (Yes) / (No), update property named “selectedValue” or any other property name of your choice.
